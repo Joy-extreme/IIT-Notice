@@ -38,7 +38,7 @@ This application allows authorized members of the institute to manage and view n
 - **Frontend**: HTML, CSS, Bootstrap  
 - **Backend**: PHP  
 - **Database**: MySQL  
-- **Authentication**: Email-based verification (using PHP `mail()` or SMTP)
+- **Authentication**: Email-based verification
 ## 📞 Contact
 
 If you have any questions, suggestions, or issues regarding this project, feel free to contact:
